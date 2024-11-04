@@ -6,3 +6,6 @@ SMEsDex es una aplicación en desarrollo que tiene como objetivo proporcionar un
 **Estado Actual:**
 
 El proyecto aún se encuentra en desarrollo. Te invitamos a explorar la lista de indicadores disponibles en nuestro catálogo.
+
+Apache License 2.0
+© 2024 Shamuel Steven Molina Duque
